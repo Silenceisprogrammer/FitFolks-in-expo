@@ -1,0 +1,8 @@
+{
+  "ignore_dirs": [".git", "node_modules", ".expo", "android", "ios", "supabase", ".venv", "dist", "web-build"],
+  "watchers": {
+    "win32": {
+      "type": "win32"
+    }
+  }
+}
